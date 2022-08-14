@@ -18,10 +18,6 @@ Passionate Software Developer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifsikdar)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=asifsikdar&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=asifsikdar)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=asifsikdar)  
 
 ![Profile views](https://gpvc.arturio.dev/asifsikdar)  
